@@ -6,3 +6,7 @@ wish = 'make a wish'
 happy = 'hit the river'
 coding_is_fun = true
 work_is_fun = false
+sisters = ['mary', 'sherie']
+parents = ['patrick', 'evelyn']
+next_vaca => mexico
+next_wedding => colorado
